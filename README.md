@@ -3,7 +3,7 @@
 
 - 🔭 Most of what I'm working on can be found here: [NET-RMSI](https://github.com/NET-RMSI/)
 
-- 🌱 I’m currently learning **C++, C and React.js**
+- 🌱 I’m currently learning **TailwindCSS and React.js**
 
 
 <p align="left">
