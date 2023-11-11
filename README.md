@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, C and React.js**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
