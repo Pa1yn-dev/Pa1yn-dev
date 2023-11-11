@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate and motivated full stack developer</h3>
 
-- 🔭 I’m currently working on [NET-RMSI](https://github.com/NET-RMSI/)
+- 🔭 Most of what I'm working on can be found here: [NET-RMSI](https://github.com/NET-RMSI/)
 
 - 🌱 I’m currently learning **C++, C and React.js**
 
