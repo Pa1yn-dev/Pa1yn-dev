@@ -3,7 +3,7 @@
 
 - 🔭 Most of what I'm working on can be found here: [NET-RMSI](https://github.com/NET-RMSI/)
 
-- 🌱 I’m currently learning [TailwindCSS](https://tailwindcss.com/) and [React.js](https://reactjs.org/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Svelte](https://svelte.dev/)
 
 - :computer: I currently daily drive [Arch Linux](https://archlinux.org/) on my development laptop
 
