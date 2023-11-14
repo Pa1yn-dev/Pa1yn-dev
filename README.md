@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate and motivated full stack developer</h3>
-
-- 🔭 Most of what I'm working on can be found here: [NET-RMSI](https://github.com/NET-RMSI/)
-
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Svelte](https://svelte.dev/)
-
-- :computer: I currently daily drive [Arch Linux](https://archlinux.org/) on my development laptop
+<p alight="right">Computer Science student at UOL | Self-taught programmer with experience in C#, .NET, C/C++, Python, and more | Enthusiastic about full-stack development, machine learning, and game development | Proficient in Linux and adept at version control with Git | Passionate about software development, particularly in open-source projects and developing skills related to DevOps and SysAdmin tasks | Currently learning Haskell and Rust along with staying updated on and learning more about technologies I already work with.</p>
 
 
 <p align="left">
